@@ -1,6 +1,7 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad%20Samantray-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-tps/)
+
 # 🏃 Aerofit Case Study
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad%20Samantray-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-tps/)
 
 ## 📌 Overview  
 This repository contains the **Aerofit Treadmill Case Study**, analyzing customer segments, product positioning, and strategic recommendations.  
