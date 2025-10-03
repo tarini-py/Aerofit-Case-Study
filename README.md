@@ -103,3 +103,7 @@ The analysis is available as a Google Colab notebook:
 - **Notebook**: Jupyter / Google Colab  
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarini%20Prasad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mr-tps/)
+
+---
